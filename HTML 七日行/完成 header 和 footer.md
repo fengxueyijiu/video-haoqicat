@@ -1,0 +1,1 @@
+<video controls="" style="width: 100%; display: block;"><source src="http://o86bpj665.bkt.clouddn.com/html7/2-4-header.mp4" type="video/mp4"><p>To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video.</p></video>
